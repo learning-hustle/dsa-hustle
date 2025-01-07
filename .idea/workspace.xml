@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3004ebc7-322a-4e1c-a6cc-30428ae6bd43" name="Changes" comment="[DSA-HUSTLE][002] - Array Merge Algo - Variation 1 added">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/dsa-hustle/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/dsa-hustle/rt/dsa/algo/arrrays/merge/MergeArrayVariationA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rt/dsa/algo/arrays/merge/MergeArrayVariationA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/rt/dsa/algo/arrays/merge/MergeArrayVariationATest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +55,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736274804694</updated>
-      <workItem from="1736274806330" duration="1189000" />
+      <workItem from="1736274806330" duration="1233000" />
     </task>
+    <task id="LOCAL-00001" summary="[DSA-HUSTLE][002] - Array Merge Algo - Variation 1 added">
+      <option name="closed" value="true" />
+      <created>1736276011334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736276011334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
