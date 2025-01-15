@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3004ebc7-322a-4e1c-a6cc-30428ae6bd43" name="Changes" comment="[DSA-HUSTLE][003] - Removed dir &quot;out&quot; and update gitignore file">
+    <list default="true" id="2150ecfb-d592-430f-a2b9-295858503a19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa-hustle.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rt/dsa/algo/arrays/merge/MergeArrayVariationA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rt/dsa/algo/arrays/merge/MergeArrayVariationATest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,22 +27,17 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2rJQfxmOyfGaYxkDSFXAmYxcOkA" />
+  <component name="ProjectId" id="2rgFGV32O8aotWbh8yEHgSrs5cA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.MergeArrayVariationATest (1).executor": "Run",
     "JUnit.MergeArrayVariationATest.executor": "Run",
-    "JUnit.MergeArrayVariationATest.testBigON_NormalCase.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -46,49 +47,50 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.40804598",
-    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MergeArrayVariationATest.testBigON_NormalCase">
-    <configuration name="MergeArrayVariationATest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="rt.hustle.dsa.algo.arrays.remove" />
+      <recent name="rt.hustle.dsa.algo.arrays.merge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RemoveElementVariationATest">
+    <configuration name="MergeArrayVariationATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dsa-hustle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rt.dsa.algo.arrays.merge.*" />
+          <option name="PATTERN" value="rt.hustle.dsa.algo.arrays.merge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="rt.dsa.algo.arrays.merge" />
-      <option name="MAIN_CLASS_NAME" value="rt.dsa.algo.arrays.merge.MergeArrayVariationATest" />
-      <option name="METHOD_NAME" value="" />
+      <option name="PACKAGE_NAME" value="rt.hustle.dsa.algo.arrays.merge" />
+      <option name="MAIN_CLASS_NAME" value="rt.hustle.dsa.algo.arrays.merge.MergeArrayVariationATest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeArrayVariationATest.testBigON_NormalCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveElementVariationATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dsa-hustle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rt.dsa.algo.arrays.merge.*" />
+          <option name="PATTERN" value="rt.hustle.dsa.algo.arrays.remove.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="rt.dsa.algo.arrays.merge" />
-      <option name="MAIN_CLASS_NAME" value="rt.dsa.algo.arrays.merge.MergeArrayVariationATest" />
-      <option name="METHOD_NAME" value="testBigON_NormalCase" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="rt.hustle.dsa.algo.arrays.remove" />
+      <option name="MAIN_CLASS_NAME" value="rt.hustle.dsa.algo.arrays.remove.RemoveElementVariationATest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MergeArrayVariationATest.testBigON_NormalCase" />
+        <item itemvalue="JUnit.RemoveElementVariationATest" />
+        <item itemvalue="JUnit.MergeArrayVariationATest" />
       </list>
     </recent_temporary>
   </component>
@@ -102,61 +104,29 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3004ebc7-322a-4e1c-a6cc-30428ae6bd43" name="Changes" comment="" />
-      <created>1736274804694</created>
+      <changelist id="2150ecfb-d592-430f-a2b9-295858503a19" name="Changes" comment="" />
+      <created>1736972719373</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1736274804694</updated>
-      <workItem from="1736274806330" duration="4423000" />
+      <updated>1736972719373</updated>
+      <workItem from="1736972725365" duration="320000" />
     </task>
-    <task id="LOCAL-00001" summary="[DSA-HUSTLE][002] - Array Merge Algo - Variation 1 added">
-      <option name="closed" value="true" />
-      <created>1736276011334</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1736276011334</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[DSA-HUSTLE][003] - Removed dir &quot;out&quot; and update gitignore file">
-      <option name="closed" value="true" />
-      <created>1736276084945</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1736276084945</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[DSA-HUSTLE][002] - Array Merge Algo - Variation 1 added" />
-    <MESSAGE value="[DSA-HUSTLE][003] - Removed dir &quot;out&quot; and update gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="[DSA-HUSTLE][003] - Removed dir &quot;out&quot; and update gitignore file" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/rt/dsa/algo/arrays/merge/MergeArrayVariationATest.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/rt/dsa/algo/arrays/merge/MergeArrayVariationA.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/rt/dsa/algo/arrays/merge/MergeArrayVariationATest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/rt/hustle/dsa/algo/arrays/merge/MergeArrayVariationATest.java</url>
           <line>15</line>
-          <properties class="rt.dsa.algo.arrays.merge.MergeArrayVariationATest" method="testBigON_NormalCase">
+          <properties class="rt.hustle.dsa.algo.arrays.merge.MergeArrayVariationATest" method="testBigON_NormalCase">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

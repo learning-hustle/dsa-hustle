@@ -1,4 +1,4 @@
-package rt.dsa.algo.arrays.merge;
+package rt.hustle.dsa.algo.arrays.merge;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
