@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2150ecfb-d592-430f-a2b9-295858503a19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2150ecfb-d592-430f-a2b9-295858503a19" name="Changes" comment="[DSA-HUSTLE][006] - Remove Element from Array Variant 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rt/hustle/dsa/algo/arrays/remove/RemoveElementVariantA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rt/hustle/dsa/algo/arrays/remove/RemoveElementVariantB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rt/hustle/dsa/algo/arrays/remove/RemoveElementVariationBTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa-hustle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rt/dsa/algo/arrays/merge/MergeArrayVariationA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/rt/dsa/algo/arrays/merge/MergeArrayVariationATest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rt/hustle/dsa/algo/arrays/remove/RemoveElementVarientA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rt/hustle/dsa/algo/arrays/remove/RemoveElementVariationATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rt/hustle/dsa/algo/arrays/remove/RemoveElementVariationATest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,47 +24,67 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2rgFGV32O8aotWbh8yEHgSrs5cA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.MergeArrayVariationATest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RemoveElementVarientA.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.MergeArrayVariationATest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RemoveElementVariationATest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RemoveElementVariationATest.testBigON_NormalCase.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RemoveElementVariationATest.testBigO_N.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="rt.hustle.dsa.algo.arrays.remove" />
       <recent name="rt.hustle.dsa.algo.arrays.merge" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rt.hustle.dsa.algo.arrays.remove" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveElementVariationATest">
-    <configuration name="MergeArrayVariationATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RemoveElementVariantBTest">
+    <configuration name="RemoveElementVariantA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rt.hustle.dsa.algo.arrays.remove.RemoveElementVariantA" />
       <module name="dsa-hustle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rt.hustle.dsa.algo.arrays.merge.*" />
+          <option name="PATTERN" value="rt.hustle.dsa.algo.arrays.remove.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="rt.hustle.dsa.algo.arrays.merge" />
-      <option name="MAIN_CLASS_NAME" value="rt.hustle.dsa.algo.arrays.merge.MergeArrayVariationATest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElementVariantBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dsa-hustle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rt.hustle.dsa.algo.arrays.remove.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rt.hustle.dsa.algo.arrays.remove" />
+      <option name="MAIN_CLASS_NAME" value="rt.hustle.dsa.algo.arrays.remove.RemoveElementVariantBTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,10 +105,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveElementVariationATest.testBigON_NormalCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dsa-hustle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rt.hustle.dsa.algo.arrays.remove.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rt.hustle.dsa.algo.arrays.remove" />
+      <option name="MAIN_CLASS_NAME" value="rt.hustle.dsa.algo.arrays.remove.RemoveElementVariationATest" />
+      <option name="METHOD_NAME" value="testBigON_NormalCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElementVariationATest.testBigO_N" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dsa-hustle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rt.hustle.dsa.algo.arrays.remove.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rt.hustle.dsa.algo.arrays.remove" />
+      <option name="MAIN_CLASS_NAME" value="rt.hustle.dsa.algo.arrays.remove.RemoveElementVariationATest" />
+      <option name="METHOD_NAME" value="testBigO_N" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RemoveElementVariantBTest" />
+        <item itemvalue="JUnit.RemoveElementVariationATest.testBigO_N" />
         <item itemvalue="JUnit.RemoveElementVariationATest" />
-        <item itemvalue="JUnit.MergeArrayVariationATest" />
+        <item itemvalue="JUnit.RemoveElementVariationATest.testBigON_NormalCase" />
+        <item itemvalue="Application.RemoveElementVariantA" />
       </list>
     </recent_temporary>
   </component>
@@ -109,12 +162,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736972719373</updated>
-      <workItem from="1736972725365" duration="320000" />
+      <workItem from="1736972725365" duration="2830000" />
+      <workItem from="1736975624722" duration="1028000" />
     </task>
+    <task id="LOCAL-00001" summary="[DSA-HUSTLE][005] - Project Structure Changed to Maven">
+      <option name="closed" value="true" />
+      <created>1736973117801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736973117801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[DSA-HUSTLE][005] - Project Structure Changed to Maven" />
+    <MESSAGE value="[DSA-HUSTLE][006] - Remove Element from Array Variant 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="[DSA-HUSTLE][006] - Remove Element from Array Variant 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -127,6 +206,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rt/hustle/dsa/algo/arrays/remove/RemoveElementVariantA.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
